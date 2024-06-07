@@ -5,7 +5,10 @@
             {
                 "appID": "JGW4978G7G.io.bravecompany.superclass.iipa",
                 "paths": [
-                    "/", "/*", "/test/*"
+                    "/",
+                    "/*",
+                    "/test/*",
+                    "/test"
                 ]
             }
         ]
