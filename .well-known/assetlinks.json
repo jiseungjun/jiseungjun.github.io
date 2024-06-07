@@ -1,15 +1,13 @@
 [
     {
         "relation": [
-            "delegate_permission/common.get_login_creds",
-            "delegate_permission/common.handle_all_urls",
-            "delegate_permission/common.use_as_origin"
+            "delegate_permission/common.handle_all_urls"
         ],
         "target": {
             "namespace": "android_app",
             "package_name": "io.bravecompany.superclass.iipa",
             "sha256_cert_fingerprints": [
-                "0F:D9:A0:CF:B0:7B:65:95:09:97:B4:EA:EB:DC:53:93:13:92:39:1A:A4:06:53:8A:3B:04:07:3B:C2:CE:2F:E9"
+                "06:E3:3F:88:71:95:0F:5B:EB:BD:8B:59:27:BD:EA:88:30:4B:37:7A:43:F5:2A:8F:28:01:52:84:EF:E6:ED:7B"
             ]
         }
     }
