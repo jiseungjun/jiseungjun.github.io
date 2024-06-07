@@ -3,22 +3,9 @@
         "apps": [],
         "details": [
             {
-                "appID": "ZP9MK28FYU.com.coupang.Coupang",
+                "appID": "JGW4978G7G.io.bravecompany.superclass.iipa",
                 "paths": [
-                    "/",
-                    "/vp/products/*",
-                    "/np/products/*",
-                    "/np/search",
-                    "/np/promotion/*",
-                    "/np/collections/*",
-                    "/nm/",
-                    "/nm/products/*",
-                    "/nm/search",
-                    "/nm/promotions/*",
-                    "/g/*",
-                    "/landing",
-                    "/vm/sdp/page/mlsdp",
-                    "/vm/mlp/page/mlgw"
+                    "/"
                 ]
             }
         ]
