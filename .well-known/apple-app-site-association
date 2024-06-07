@@ -1,0 +1,26 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "ZP9MK28FYU.com.coupang.Coupang",
+                "paths": [
+                    "/",
+                    "/vp/products/*",
+                    "/np/products/*",
+                    "/np/search",
+                    "/np/promotion/*",
+                    "/np/collections/*",
+                    "/nm/",
+                    "/nm/products/*",
+                    "/nm/search",
+                    "/nm/promotions/*",
+                    "/g/*",
+                    "/landing",
+                    "/vm/sdp/page/mlsdp",
+                    "/vm/mlp/page/mlgw"
+                ]
+            }
+        ]
+    }
+}
