@@ -5,11 +5,11 @@
         ],
         "target": {
             "namespace": "android_app",
-            "package_name": "io.bravecompany.superclass.iipa",
+            "package_name": "kr.co.hunet.mobile.growb2b",
             "sha256_cert_fingerprints": [
-                "B2:A2:3D:DE:60:66:9D:C3:7E:E3:45:33:B9:D8:B1:65:32:BE:A7:4A:13:99:62:86:E8:D4:29:F7:DD:32:00:6C",
-                "D5:60:85:F2:0E:E8:9D:84:B2:68:8F:92:6E:5C:C5:B4:DD:F3:10:9A:69:B1:F7:CF:8C:4E:3B:BA:90:2D:92:C7",
-                "AC:6F:03:83:11:88:28:BE:7C:90:CA:A4:56:12:0C:CF:89:F2:5A:74:4B:14:F8:54:3B:A7:0A:43:BE:44:82:8D"
+                "3A:7A:79:98:7E:DC:3F:6D:E8:1F:53:77:14:74:C1:5B:EC:F8:FC:70:17:A0:B4:AC:9C:21:C8:22:43:2A:81:CF",
+                "55:EF:D1:12:0A:79:C5:7D:45:68:87:26:BA:67:AF:B5:A7:DA:07:54:D3:A2:13:C5:17:F1:0D:3A:39:E7:59:77",
+                "AC:2F:E4:F7:9F:C5:86:1F:49:E7:E1:A3:72:DE:B3:05:ED:05:DF:BB:70:2F:30:A7:71:D0:B5:B6:E0:63:78:D8"
             ]
         }
     }
