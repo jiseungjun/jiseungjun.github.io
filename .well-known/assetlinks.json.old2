@@ -1,0 +1,16 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "kr.co.hunet.mobile.growb2b",
+            "sha256_cert_fingerprints": [
+                "3A:7A:79:98:7E:DC:3F:6D:E8:1F:53:77:14:74:C1:5B:EC:F8:FC:70:17:A0:B4:AC:9C:21:C8:22:43:2A:81:CF",
+                "55:EF:D1:12:0A:79:C5:7D:45:68:87:26:BA:67:AF:B5:A7:DA:07:54:D3:A2:13:C5:17:F1:0D:3A:39:E7:59:77",
+                "AC:2F:E4:F7:9F:C5:86:1F:49:E7:E1:A3:72:DE:B3:05:ED:05:DF:BB:70:2F:30:A7:71:D0:B5:B6:E0:63:78:D8"
+            ]
+        }
+    }
+]
